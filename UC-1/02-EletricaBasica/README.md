@@ -18,7 +18,7 @@
 ## Instrumentação
 - 🧰 Usar **multímetro** para descobrir as tensões corretamente.  
 
-### fotos no TinkerCard
+### fotos no TinkerCad
 
 
 <img width="761" height="680" alt="eletrica basica" src="https://github.com/user-attachments/assets/c8daa1b2-b2af-4989-b226-041c41f16fef" />
