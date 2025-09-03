@@ -1,10 +1,16 @@
 ### aula 02/09/25
 
+
 intel i? lga1200 
+
 intel i? lga1700
-intel ultra?- lga 1851 (200) 
+
+intel ultra?- lga 1851 (200)
+ 
 amd ryzen- am4 (1000 até 5000)
+
 amd ryzen AM5 (7000 até 9000) 
+
 
 Processador Intel Core i5 10400F, 2.90GHz (4.30GHz Turbo), 10ª Geração, 6-Cores 12-Threads, LGA 1200,
 Placa Mãe Gigabyte H510M H V2, Chipset H510, LGA 1200, mATX, DDR4, H510M H V2 2.0
@@ -22,5 +28,6 @@ Processador AMD Ryzen 5 7600, 3.8GHz (5.1GHz Turbo), 6-Cores 12-Threads, AM5, Co
 Placa Mãe MSI PRO B650M-P, Chipset B650, AMD AM5, M-ATX, DDR5, 911-7E28-001
 
 quantos mais cache mais desempenho e menos latencia
+
 
 ### diretorio da UC-1 
