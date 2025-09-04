@@ -31,3 +31,36 @@ quantos mais cache mais desempenho e menos latencia
 
 
 ### diretorio da UC-1 
+
+
+
+# Aula de Hardware – SENAC Tatuapé  
+📅 Aula [04/09/25]  
+
+## Comparativo de Processadores em Jogos
+
+### Ryzen 9 9950X
+- ⚡ 16 núcleos / 32 threads  
+- Base clock: 4.3GHz (Turbo até 5.7GHz)  
+- Soquete AM5  
+- Excelente em **tarefas multitarefa e produtividade**.  
+
+### Ryzen 7 9800X3D
+- ⚡ 8 núcleos / 16 threads  
+- Arquitetura otimizada com **3D V-Cache**  
+- Desempenho superior em **jogos**.  
+
+---
+
+## Por que o Ryzen 7 9800X3D é melhor em jogos?
+- 🎮 A maioria das empresas de jogos se baseia na arquitetura dos **consoles**.  
+- O **PS5 Pro**, considerado o mais forte atualmente, usa processador com **8 núcleos e 16 threads**.  
+- Jogos são otimizados para **até 8C/16T** → Ter mais núcleos **não traz ganho real** em jogos.  
+- O 9800X3D aproveita melhor cache e otimização, entregando **FPS maior e mais estável**.  
+
+---
+
+## Conclusão
+- ✅ **Ryzen 9 9950X** → Melhor para **trabalhos pesados, multitarefa, edição, render e produtividade**.  
+- ✅ **Ryzen 7 9800X3D** → Melhor para **jogos**, mesmo tendo menos núcleos.  
+
