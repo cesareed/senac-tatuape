@@ -109,3 +109,71 @@
 - ✅ **Ryzen 7 9800X3D** → Melhor para **jogos**, mesmo tendo menos núcleos.  
 
 
+# Anotações de Hardware – Estudo de Processadores AMD  
+
+## Exemplo de Especificações (AMD Ryzen – AM5)
+
+- **Marca:**  
+  AMD → Fabricante do processador.  
+
+- **Modelo:**  
+  100-1000001084WOF → Código de identificação específico.  
+
+- **Soquete:**  
+  AM5 → Tipo de encaixe na placa-mãe.  
+
+- **Núcleos:**  
+  8 → Quantidade de processadores físicos dentro do chip.  
+
+- **Threads:**  
+  16 → Quantidade de processos simultâneos (cada núcleo = 2 threads via SMT).  
+
+- **Multithreading (SMT):**  
+  Sim → Permite rodar 2 tarefas por núcleo.  
+
+- **Frequência base:**  
+  4.7 GHz → Velocidade mínima garantida.  
+
+- **Frequência Max Turbo:**  
+  5.2 GHz → Velocidade máxima quando exigido.  
+
+- **Cache L2:**  
+  8 MB → Memória rápida por núcleo, ajuda em cálculos imediatos.  
+
+- **Cache L3:**  
+  96 MB → Memória maior e compartilhada, melhora desempenho em jogos.  
+
+- **Solução térmica:**  
+  Não → Não vem com cooler incluso.  
+
+- **Tecnologia de Processador para Núcleos de CPU:**  
+  TSMC 4nm FinFET → Processo de fabricação dos núcleos, mais eficiência.  
+
+- **Tecnologia de Processador para E/S Die:**  
+  TSMC 6nm FinFET → Fabricação do chip de controle de entradas/saídas.  
+
+- **Suporte de SO:**  
+  Windows 10/11 (64 bits), RHEL e Ubuntu (64 bits).  
+
+- **Velocidade máxima de memória suportada:**  
+  - 2x1R DDR5-5600  
+  - 2x2R DDR5-5600  
+  - 4x1R DDR5-3600  
+  - 4x2R DDR5-3600  
+
+- **Recursos gráficos:**  
+  - GPU integrada Radeon (2 núcleos)  
+  - Frequência gráfica: 2200 MHz  
+  - Suporte a DisplayPort via USB Type-C  
+
+- **Tecnologias compatíveis:**  
+  AMD EXPO™ (overclock de memória) e tecnologias Ryzen.  
+
+- **TDP padrão:**  
+  120W → Consumo máximo estimado de energia e calor a dissipar.  
+
+---
+
+📌 **Resumo:** Cada informação da ficha técnica do processador ajuda a entender o **desempenho**, a **eficiência energética** e a **compatibilidade** com placas-mãe, memórias e sistemas.  
+
+
