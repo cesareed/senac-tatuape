@@ -29,87 +29,93 @@
 
 
 
-###⚡ Eletricidade e Lei de Ohm 05/09/25 ###
-🔌 Corrente Alternada (CA / AC)
-Tomada → recebe o nome de CA (Corrente Alternada).
-Tradução de AC → 127/CA220.
-Entrada (Input): 100–240V ~ 50/60Hz.
-100–127 V | 200–240 V.
-Na corrente alternada existe a unidade Hz (Hertz) → indica a frequência.
-Exemplo: 50/60 Hz → número de vezes que a polaridade muda por segundo.
-Conversão de frequência
-5 GHz = 5.000.000.000 Hz (5 bilhões de Hertz) ✅
+# 📘 Aula de Elétrica – SENAC Tatuapé  
+📅 Data: 05/09/2025  
+
+---
+
+# 📒 Anotações
+
+## 🔌 Corrente Alternada (CA)
+- Tomada recebe o nome de **CA - Corrente Alternada**  
+- Entrada (Input): `100-240V`  
+  - `100-127V`  
+  - `200-240V`  
+- Na corrente alternada existe o **Hz (Hertz)**: `50/60 Hz`  
+  - A frequência muda a polaridade de acordo com o número  
+- Exemplo: `5 GHz` equivale a **5 bilhões de Hz**
+
+---
+
+## 🔋 Corrente Contínua (CC / DC)
+- **DC** = Direct Current  
+- **CC** = Corrente Contínua (tradução)  
+- Valores comuns: `12V`, `5V`, `3,3V`
+
+---
+
+## 📐 Cálculos – Lei de Ohm
+
+### Triângulo da Lei de Ohm
 
 
-🔋 Corrente Contínua (CC / DC)
-Tradução de DC → CC (Corrente Contínua).
-Não possui frequência.
-Valores típicos: 12 V, 5 V, 3,3 V.
-Exemplo: Saída de carregador (Output): 5.0V / 3.0A.
-5V → padrão de porta USB.
+  Uv
+-------
+ R   I
 
+
+
+
+- **Uv** = Tensão (Volts) → sempre em cima  
+- **R** = Resistor (Ω - Ohms)  
+- **I** = Corrente (A - Amperes)  
+
+**Regras:**  
+- Vertical = **Divisão**  
+- Horizontal = **Multiplicação**
+
+---
+
+## 🔣 Unidades
+- **Uv (V)** → Volts  
+- **I (A)** → Corrente em Ampere  
+- **R (Ω)** → Resistência em Ohms  
+- **P (W)** → Potência em Watts  
+
+⚠️ A corrente nunca será maior que a tensão.  
+Se for igual ou maior → acontece **curto-circuito**.
+
+---
+
+## 🔺 Triângulo da Potência
+
+
+
+  P
+-------
+ Uv   I
+
+
+
+
+
+- **P** = Potência (Watts)  
+- **Uv** = Tensão (Volts)  
+- **I** = Corrente (Amperes)  
+
+Quando não houver dois valores no primeiro triângulo (Ohm), usa-se o segundo para achar o valor que falta.
+
+---
+
+## 📝 Exemplo de Cálculo
+- **Pw = 5.500 W**  
+- **Uv = 220 V**  
+- **Ia = 25 A**
+
+Cálculo:  
 
 
         ▲
-       / \
-      / V \
-     /-----\   ← linha horizontal = multiplicação
-    /  I | R\
-   /_________\ ← linha vertical = divisão
-V = Tensão (Volts)
 
-I = Corrente (Ampères)
-
-R = Resistência (Ohms Ω)
-
-🔑 Regras:
-
-Vertical (cima ↔ baixo) → Divisão
-
-Horizontal (lado ↔ lado) → Multiplicação
-
-Na divisão: não alterar os números.
-
-Na multiplicação: pode inverter sem problema.
-
-🔠 Unidades e Símbolos
-
-R = Resistor → Ω (Ohm)
-
-I = Corrente → A (Ampère)
-
-V = Tensão → V (Volt)
-
-Ω = Resistência elétrica
-
-U = Tensão
-
-P = Potência (Watt)
-
-⚠️ Se a corrente (I) for maior ou igual à tensão (U), ocorre curto-circuito.
-
-
-
-	​
-
-
-Representação
-        ▲
-       / \
-      / P \
-     /-----\   ← linha horizontal = multiplicação
-    /  U | I\
-   /_________\ ← linha vertical = divisão
-
-
-P = Potência (Watt)
-
-U = Tensão (Volt)
-
-I = Corrente (Ampère)
-
-📌 Observação
-
-Quando não tiver 2 valores no primeiro triângulo (Lei de Ohm), usar o segundo triângulo da Potência para encontrar o que falta:
 
 
