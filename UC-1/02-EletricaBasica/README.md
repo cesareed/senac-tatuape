@@ -11,7 +11,7 @@
 - 🔴 **Vermelho → 5V**  
   - Circuitos de apoio, alguns HDs e memória.  
 - 🟠 **Laranja → 3,3V**  
-  - HD/SSD e outros componentes como a placa de vídeo.  
+  - HD/SSD e outros componentes  
 
 > **Obs.:** Fontes atuais não seguem mais padrão de cores nos cabos.  
 
