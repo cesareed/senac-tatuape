@@ -177,3 +177,6 @@
 📌 **Resumo:** Cada informação da ficha técnica do processador ajuda a entender o **desempenho**, a **eficiência energética** e a **compatibilidade** com placas-mãe, memórias e sistemas.  
 
 
+
+<img width="1200" height="1200" alt="VRM" src="https://github.com/user-attachments/assets/7c0cb82e-fb14-4775-b71e-1d6bbb48d32e" />
+
