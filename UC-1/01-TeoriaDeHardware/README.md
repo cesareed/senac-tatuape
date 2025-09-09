@@ -180,3 +180,58 @@
 
 <img width="1200" height="1200" alt="VRM" src="https://github.com/user-attachments/assets/7c0cb82e-fb14-4775-b71e-1d6bbb48d32e" />
 
+
+
+# Aula de Hardware - VRM da Placa-mãe (ASUS Prime A520M-E)  
+📅 09/09/2025  
+
+---
+
+## 🔎 O que é o VRM?
+O **VRM (Voltage Regulator Module)** é o circuito regulador de tensão responsável por transformar a energia de **12V da fonte** em tensões menores e estáveis (geralmente entre **1,0V e 1,4V**) para alimentar a **CPU** e o **SoC (gráfico integrado e controlador de memória)**.  
+
+---
+
+## 🧩 Componentes do VRM (de acordo com a imagem):
+
+1. **Capacitores de Entrada**  
+   - Filtram a energia de **12V** que chega do conector EPS.  
+   - Garantem entrada de energia estável para o circuito.  
+
+2. **MOSFETs (Alta e Baixa)**  
+   - Transistores que ligam e desligam rapidamente.  
+   - Controlam a entrega da energia para a CPU/SoC.  
+
+3. **Bobinas / Chokes**  
+   - Suavizam a corrente pulsante dos MOSFETs.  
+   - Armazenam energia e liberam de forma contínua.  
+   - **4 fases para CPU** e **2 fases para SoC**.  
+
+4. **Capacitores de Saída**  
+   - Refinam e estabilizam a tensão final.  
+   - Entregam energia limpa para o **soquete AM4 (CPU)** e para o **SoC**.  
+
+5. **Controlador PWM**  
+   - Comanda os MOSFETs.  
+   - Distribui as fases de energia (4 para CPU e 2 para SoC).  
+
+---
+
+## ⚡ Funcionamento do VRM
+1. Energia chega da fonte (**12V**) → Capacitores de Entrada.  
+2. MOSFETs fazem a comutação rápida controlada pelo PWM.  
+3. Corrente pulsante passa pelas Bobinas.  
+4. Capacitores de Saída refinam a tensão.  
+5. CPU (núcleos/cache) e SoC (gráfico integrado) recebem energia estável.  
+
+---
+
+## 📊 Esquema do VRM da ASUS Prime A520M-E
+- **4 fases para CPU** (alimentação principal).  
+- **2 fases para SoC** (controlador de memória + gráfico integrado).  
+- Total: **VRM 4+2 fases**.  
+
+---
+
+✅ **Resumo:**  
+O VRM garante que a CPU e o SoC recebam energia estável e segura, convertendo os **12V da fonte** em tensões menores e filtradas.  
